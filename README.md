@@ -3,8 +3,7 @@ Screenshots
 
 Pizza Sales Analysis Repost Dashboard:
 
-![Image of Matt Parker](C:Users/jigar/OneDrive/Pictures/Screenshots/pizza.png)
-
+![Image of Pizza](pizza.png)
 
 
 # Pizza Sales Analysis
