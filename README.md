@@ -1,7 +1,7 @@
 Screenshots
 -----------
 
-Pizza Sales Analysis Repost Dashboard:
+Pizza Sales Analysis Excel Dashboard:
 
 ![Image of Pizza](pizza.png)
 
