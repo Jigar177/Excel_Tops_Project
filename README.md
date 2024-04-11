@@ -1,3 +1,14 @@
+Screenshots
+-----------
+
+Pizza Sales Analysis Repost Dashboard:
+
+![Image of Matt Parker](/screenshots/Screenshot 2024-04-11 094143.png)
+
+
+
+
+
 # Pizza Sales Analysis
 
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
